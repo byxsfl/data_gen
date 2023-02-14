@@ -1,0 +1,6 @@
+com\atguigu\datax\configuration\Configuration.class
+com\atguigu\datax\Main.class
+com\atguigu\datax\helper\MysqlHelper.class
+com\atguigu\datax\beans\Table.class
+com\atguigu\datax\beans\Column.class
+com\atguigu\datax\helper\DataxJsonHelper.class
